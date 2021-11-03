@@ -8,4 +8,4 @@ has_children: true
 ---
 # Diagram of the ABI classes in the Zenon Dart SDK
 
-![Alt text](./svg/abi.svg)
+![Diagram of the ABI classes in the Zenon Dart SDK](./svg/abi.svg)

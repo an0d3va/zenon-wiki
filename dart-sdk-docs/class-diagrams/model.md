@@ -8,5 +8,4 @@ has_children: false
 ---
 # Diagram of the model classes in the Zenon Dart SDK
 
-![Alt text](./svg/model.svg)
-<img src="./model.svg">
+![Diagram of the model classes in the Zenon Dart SDK](./svg/model.svg)

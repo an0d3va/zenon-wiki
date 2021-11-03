@@ -8,5 +8,4 @@ has_children: false
 ---
 # Diagram of the wallet and cryptographic classes in the Zenon Dart SDK
 
-![Alt text](./svg/wallet_and_crypto.svg)
-<img src="./wallet_and_crypto.svg">
+![Diagram of the wallet and cryptographic classes in the Zenon Dart SDK](./svg/wallet_and_crypto.svg)

@@ -8,4 +8,4 @@ has_children: false
 ---
 # Simplified class diagram of the complete Zenon Dart SDK
 
-![Alt text](./svg/simplified.svg)
+![Simplified class diagram of the complete Zenon Dart SDK](./svg/simplified.svg)

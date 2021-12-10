@@ -8,4 +8,4 @@ has_children: false
 ---
 # Diagram of the embedded and API classes in the Zenon Dart SDK
 
-![Diagram of the embedded and API classes in the Zenon Dart SDK](./svg/embedded_api.svg)
+![Diagram of the embedded and API classes in the Zenon Dart SDK](./svg/embedded_and_api.svg)

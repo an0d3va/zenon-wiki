@@ -5,6 +5,8 @@ parent: deep dives
 grand_parent: dart SDK documentation
 nav_order: 2
 ---
+# Deep dive - follow a function through the SDK: delegating to a pillar
+
 ## Summary
 
 The `delegate()` function in the pillarApi class generates an account block from the `accountBlockTemplate` and executes its `callContract` function to broadcast the transaction authorising delegation to the named pillar.

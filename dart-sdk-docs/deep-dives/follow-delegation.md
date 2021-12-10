@@ -1,10 +1,11 @@
 ---
 layout: default
-title: following a function through the SDK: delegating to a pillar
+title: following a function through the SDK - delegating to a pillar
 parent: deep dives
 grand_parent: dart SDK documentation
 nav_order: 2
 ---
+
 # Deep dive - follow a function through the SDK: delegating to a pillar
 
 ## Summary
